@@ -51,3 +51,4 @@ Session.vim
 *.local.*
 .azds/
 _*
+terraform/.terraform/*
